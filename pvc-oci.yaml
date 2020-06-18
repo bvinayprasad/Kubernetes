@@ -8,5 +8,4 @@ spec:
   storageClassName: oci
   resources:
     requests:
-      storage: 1Gi
-~                     
+      storage: 1Gi                
