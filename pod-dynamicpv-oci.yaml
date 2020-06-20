@@ -19,5 +19,4 @@ spec:
   volumes:
     - name: volume
       persistentVolumeClaim:
-        claimName: oracle-managed-disk
-~                                          
+        claimName: oracle-managed-disk                                 
